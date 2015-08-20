@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-cout<<"Hiiiiii";
+cout<<"-----";
 return 0;
 }
